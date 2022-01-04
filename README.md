@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://miro.medium.com/max/1084/1*oTiZidh4xGr38Syo80TvuQ.png" alt="cover" />
+<img width="100%" height = "400px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/174116380/original/e5af66e4736e7d503814377aba20a02569f6eb87/devops-related-tools-like-docker-jenkins-kubernetes-aws.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < DevOps Enthusiasts/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=akshat-crypto.akshat-crypto)
 
 </p>
-<div size='20px'> Hi! My name is Akshat Soni. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='30px'> Hi! My name is Akshat Soni. Thank You for taking the time to view my GitHub Profile. I am currently pursuing my Bachelors Degree from Jaipur Engineering College and Research Center. I have a keen interest in  Cloud Computing and DevOps practices I have done multiple projects and internships within this domain. All these projects are shared in my github and linkedin profile also. :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -53,7 +53,7 @@ https://github.com/akshat-crypto/aws_shell_scripting_Project-3
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-crypto&theme=dark" />
 </a>
 <p href="">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-crypto&" alt="akshat-crypto" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-crypto&" alt="akshat-crypto" theme="dark" />
 </p>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
@@ -62,4 +62,3 @@ https://github.com/akshat-crypto/aws_shell_scripting_Project-3
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
