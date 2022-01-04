@@ -2,7 +2,7 @@
 <img width="100%" height = "400px" src="https://miro.medium.com/max/1084/1*oTiZidh4xGr38Syo80TvuQ.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < DevOps Enthusiasts/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=akshat-crypto.akshat-crypto)
@@ -20,8 +20,6 @@
 https://github.com/akshat-crypto/aws_shell_scripting_Project-3
 
 - 🌱 I’m currently learning RHCSA, Terraform, Jenkins, Ansible 
-
-- 👯 I’m looking to collaborate on  
 
 - 💬 Talk to me about AWS, Docker, Kubernetes, Terraform, Jenkins, RHCSA, Flutter, Python, Freelancing, Open Source 
 
@@ -48,12 +46,15 @@ https://github.com/akshat-crypto/aws_shell_scripting_Project-3
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshat-crypto&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-crypto&theme=dark" />
 </a>
+<p href="">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-crypto&" alt="akshat-crypto" />
+</p>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
