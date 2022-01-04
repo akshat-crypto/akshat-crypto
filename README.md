@@ -55,6 +55,7 @@ https://github.com/akshat-crypto/aws_shell_scripting_Project-3
 <p href="">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-crypto&" alt="akshat-crypto" theme="dark" />
 </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-crypto" alt="akshat-crypto" /></a> </p>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
